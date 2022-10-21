@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(to bottom right, #00F490, #00BBC9);
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+
+h1{
+    font-family:'Abril Fatface', cursive;
+    font-size: 50px;
+    color: white;
+}
+
+.lead {
+    color: white;
+    font-size: 3.5rems;
+}
+
+.fr {
+   background-color: rgba(255, 255, 255, 0.185);
+}
+
+.btn-outline-light:hover {
+    border-color: rgba(255, 255, 255, 0.247);
+}
+
+.margin {
+    padding-left: 600px;
+}
+
+.color {
+    color: blue;
+}
+
+.btn-primary {
+    background-color: #00F490;
+    border-color: #00F490;
+}
+
+.btn-primary:hover {
+   background-color: #00F490;
+}
